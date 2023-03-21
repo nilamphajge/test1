@@ -1,0 +1,43 @@
+[
+{
+  "namee" : "Nilam",
+  "address" : "Blr",
+  "isActive" : true,
+  "phoneNo" : ["123490544", "202000444"],
+  
+  "batch" :
+  { 
+  "batchName" : "SpringBoot and Hibernate",
+  "trainer" : "Abhilash" 
+  }
+  
+},
+
+{
+  "namee" : "Sony",
+  "address" : "Pune",
+  "isActive" : false,
+  "phoneNo" : ["4894490404", "202000444"],
+  
+  "batch" :
+  { 
+  "batchName" : "SpringBoot and Hibernate",
+  "trainer" : "Abhilash" 
+  }
+  
+},
+
+{
+  "namee" : "Ankit",
+  "address" : "Mumbai",
+  "isActive" : true,
+  "phoneNo" : ["894994904", "8484994934"],
+  
+  "batch" :
+  { 
+  "batchName" : "SpringBoot and Hibernate",
+  "trainer" : "Abhilash" 
+  }
+  
+}
+]
